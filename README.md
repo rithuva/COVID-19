@@ -1,2 +1,2 @@
-# COVID-19 coronavirus started
-greetings from corona family
+# COVID-19 
+corona is a deadly virus.
